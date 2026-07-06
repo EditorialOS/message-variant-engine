@@ -1,1 +1,19 @@
-IyBQcml2YWN5CgpNZXNzYWdlIFZhcmlhbnQgRW5naW5lIGlzIGJ1aWx0IHByaXZhY3ktZmlyc3QuIFRoZXJlIGlzIG5vICJ1cyIgdG8gc2VuZCB5b3VyIGRhdGEgdG8uCgojIyBXaGF0IHdlIGNvbGxlY3QKCioqTm90aGluZy4qKiBNZXNzYWdlIFZhcmlhbnQgRW5naW5lIGhhcyBubyBiYWNrZW5kIHNlcnZlciwgbm8gYWNjb3VudHMsIG5vIGFuYWx5dGljcywgYW5kIG5vIHRlbGVtZXRyeS4KCiMjIFdoZXJlIHlvdXIgZGF0YSBnb2VzCgotIFlvdXIgaW5wdXRzLCBicmFuZCBzZXR0aW5ncywgYW5kIEFQSSBrZXkgYXJlIHN0b3JlZCAqKmxvY2FsbHkgaW4geW91ciBicm93c2VyKiogKENocm9tZSBzdG9yYWdlKS4KLSBXaGVuIHlvdSBnZW5lcmF0ZSBvdXRwdXQsIHlvdXIgaW5wdXQgYW5kIGJyYW5kIHJ1bGVzIGFyZSBzZW50ICoqZGlyZWN0bHkgZnJvbSB5b3VyIGJyb3dzZXIgdG8gdGhlIEFudGhyb3BpYyBBUEkqKiAoYGFwaS5hbnRocm9waWMuY29tYCkgdXNpbmcgKnlvdXIqIEFQSSBrZXkuIFRoZXkgYXJlIG5ldmVyIHJvdXRlZCB0aHJvdWdoIGFueSBzZXJ2ZXIgd2UgY29udHJvbCwgYmVjYXVzZSBub25lIGV4aXN0cy4KLSBZb3VyIEFQSSBrZXkgbmV2ZXIgbGVhdmVzIHlvdXIgZGV2aWNlIGV4Y2VwdCBpbiB0aGUgYXV0aGVudGljYXRlZCByZXF1ZXN0IHRvIEFudGhyb3BpYy4KCiMjIFdoYXQgeW91IHNob3VsZCBrbm93CgotIFJldmlldyBbQW50aHJvcGljJ3MgcHJpdmFjeSBwb2xpY3ldKGh0dHBzOi8vd3d3LmFudGhyb3BpYy5jb20vbGVnYWwvcHJpdmFjeSkgZm9yIGhvdyB0aGV5IGhhbmRsZSBBUEkgcmVxdWVzdHMuCi0gVW5pbnN0YWxsaW5nIHRoZSBleHRlbnNpb24gcmVtb3ZlcyBhbGwgbG9jYWxseSBzdG9yZWQgZGF0YS4KLSBUaGlzIHByb2plY3QgaXMgb3BlbiBzb3VyY2Ug4oCUIHlvdSBjYW4gYXVkaXQgZXhhY3RseSB3aGF0IGl0IGRvZXMgaW4gW2BleHRlbnNpb24vYF0oZXh0ZW5zaW9uLykuCg==
+# Privacy
+
+Message Variant Engine is built privacy-first. There is no "us" to send your data to.
+
+## What we collect
+
+**Nothing.** Message Variant Engine has no backend server, no accounts, no analytics, and no telemetry.
+
+## Where your data goes
+
+- Your inputs, brand settings, and API key are stored **locally in your browser** (Chrome storage).
+- When you generate output, your input and brand rules are sent **directly from your browser to the Anthropic API** (`api.anthropic.com`) using *your* API key. They are never routed through any server we control, because none exists.
+- Your API key never leaves your device except in the authenticated request to Anthropic.
+
+## What you should know
+
+- Review [Anthropic's privacy policy](https://www.anthropic.com/legal/privacy) for how they handle API requests.
+- Uninstalling the extension removes all locally stored data.
+- This project is open source — you can audit exactly what it does in [`extension/`](extension/).
