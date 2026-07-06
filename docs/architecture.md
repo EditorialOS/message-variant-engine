@@ -1,1 +1,62 @@
-IyBBcmNoaXRlY3R1cmUg4oCUIE1lc3NhZ2UgVmFyaWFudCBFbmdpbmUKCiMjIE92ZXJ2aWV3CgpNZXNzYWdlIFZhcmlhbnQgRW5naW5lIGlzIGEgQ2hyb21lIGV4dGVuc2lvbiAoTWFuaWZlc3QgVjMpIHdpdGggYSBwb3B1cCBVSS4gSXQgaGFzIHRocmVlIGxheWVyczogYSAqKmZyb250LWVuZCBzdXJmYWNlKiosIGFuICoqQUkvbW9kZWwgbGF5ZXIqKiwgYW5kIGEgKipwcm9tcHQgbGF5ZXIqKiB0aGF0IGJpbmRzIHRoZSBicmFuZCBzeXN0ZW0gdG8gdXNlciBpbnB1dC4KCmBgYArilIzilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilJAK4pSCICBGcm9udC1lbmQgc3VyZmFjZSAoQ2hyb21lIGV4dGVuc2lvbiAgd2l0aCBhIHBvcHVwIFVJKSAgIOKUggrilIIgIOKAoiBjb2xsZWN0cyB1c2VyIGlucHV0ICAgICAgICAgICAgICAgICAgICAgICAg4pSCCuKUgiAg4oCiIHN0b3JlcyBzZXR0aW5ncyBsb2NhbGx5IChjaHJvbWUuc3RvcmFnZSkgICDilIIK4pSU4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSs4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSYCiAgICAgICAgICAgICAgICDilIIgIGNvbXBvc2VzCiAgICAgICAgICAgICAgICDilrwK4pSM4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSQCuKUgiAgUHJvbXB0IGxheWVyICh0aGUgQUkgc2tpbGwpICAgICAgICAgICAgICAgICDilIIK4pSCICDigKIgZGVzaWduLXN5c3RlbS5tZCBydWxlcyArIGFpLXNraWxscy8qLm1kICAgIOKUggrilIIgIOKAoiB1c2VyIGlucHV0ICsgbG9ja2VkIHNlY3Rpb25zICAgICAgICAgICAgICAg4pSCCuKUgiAg4oCiIGFzc2VtYmxlcyBhIHN0cnVjdHVyZWQgaW5zdHJ1Y3Rpb24gc2V0ICAgICDilIIK4pSU4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSs4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSYCiAgICAgICAgICAgICAgICDilIIgIHJlcXVlc3QgKHVzZXIncyBvd24gQVBJIGtleSkKICAgICAgICAgICAgICAgIOKWvArilIzilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilJAK4pSCICBBSS9tb2RlbCBsYXllciAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKUggrilIIgIOKAoiBBbnRocm9waWMgQ2xhdWRlIChicmluZy15b3VyLW93biBBUEkga2V5KQrilIIgIOKAoiBjYWxsZWQgZGlyZWN0bHkgZnJvbSB0aGUgYnJvd3NlciAgICAgICAgICAg4pSCCuKUlOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUmApgYGAKCiMjIDEuIEZyb250LWVuZCBzdXJmYWNlCgotIEJ1aWx0IG9uIENocm9tZSAqKk1hbmlmZXN0IFYzKiouCi0gQSBwb3B1cCBVSSBwcm92aWRlcyB0aGUgd29ya3NwYWNlLgotIFNldHRpbmdzLCBicmFuZCBjb25maWcsIGFuZCB0aGUgQVBJIGtleSBhcmUgcGVyc2lzdGVkIHdpdGggYGNocm9tZS5zdG9yYWdlYCDigJQgbG9jYWwgb25seS4KCiMjIDIuIFByb21wdCBsYXllciAodGhlIEFJIHNraWxsKQoKVGhpcyBpcyB0aGUgZGVzaWduLWNyaXRpY2FsIGxheWVyLiBJdDoKCi0gTG9hZHMgdGhlIGJyYW5kIHJ1bGVzIGZyb20gdGhlIGRlc2lnbiBzeXN0ZW0gYXMgYSByZWZlcmVuY2UgZnJhbWV3b3JrLgotIE1lcmdlcyB0aGVtIHdpdGggdGhlIHVzZXIncyBpbnB1dCBhbmQgYW55IGxvY2tlZCBjb250ZW50LgotIFByb2R1Y2VzIGEgKipzdHJ1Y3R1cmVkIGluc3RydWN0aW9uIHNldCoqIHdpdGggZXhwbGljaXQgY29uc3RyYWludHMsIGZvcm1hdCBzcGVjcywgYW5kIGV4YW1wbGVzIOKAlCBzZWUgW2AuLi9haS1za2lsbHMvbWVzc2FnZS1hZGFwdGF0aW9uLXNraWxsLm1kYF0oLi4vYWktc2tpbGxzL21lc3NhZ2UtYWRhcHRhdGlvbi1za2lsbC5tZCkuCi0gQmVjYXVzZSB0aGUgcnVsZXMgYXJlIG1hcmtkb3duLCB0aGV5IGFyZSBlZGl0ZWQgd2l0aG91dCB0b3VjaGluZyBjb2RlLgoKIyMgMy4gQUkvbW9kZWwgbGF5ZXIKCi0gQW50aHJvcGljIENsYXVkZSAoYnJpbmcteW91ci1vd24gQVBJIGtleSkuCi0gVGhlIHJlcXVlc3QgZ29lcyAqKmRpcmVjdGx5IGZyb20gdGhlIGJyb3dzZXIqKiB0byBgYXBpLmFudGhyb3BpYy5jb21gIHVzaW5nIHRoZSB1c2VyJ3Mgb3duIGtleSDigJQgdGhlcmUgaXMgbm8gaW50ZXJtZWRpYXJ5IHNlcnZlci4KCgojIyBEYXRhIGZsb3cgJiBwcml2YWN5CgoxLiBVc2VyIGVudGVycyBpbnB1dCBpbiB0aGUgZXh0ZW5zaW9uLgoyLiBUaGUgcHJvbXB0IGxheWVyIGFzc2VtYmxlcyB0aGUgaW5zdHJ1Y3Rpb24gc2V0IGxvY2FsbHkuCjMuIEEgc2luZ2xlIGF1dGhlbnRpY2F0ZWQgcmVxdWVzdCBnb2VzIHRvIHRoZSBtb2RlbCBwcm92aWRlci4KNC4gVGhlIHJlc3BvbnNlIGlzIHJlbmRlcmVkIGluIHRoZSBVSS4KCk5vIGRhdGEgdG91Y2hlcyBhbnkgc2VydmVyIG9wZXJhdGVkIGJ5IHRoaXMgcHJvamVjdCDigJQgYmVjYXVzZSB0aGVyZSBpc24ndCBvbmUuIFNlZSBbYC4uL1BSSVZBQ1kubWRgXSguLi9QUklWQUNZLm1kKS4KCiMjIFdoeSB0aGlzIHNoYXBlCgpUaGUgYXJjaGl0ZWN0dXJlIGlzIGRlbGliZXJhdGVseSB0aGluIHNvIHRoZSAqKmRlc2lnbiBzeXN0ZW0gYW5kIHRoZSBBSSBza2lsbCoqIOKAlCBub3QgdGhlIHBsdW1iaW5nIOKAlCBhcmUgdGhlIHN1YnN0YW5jZS4gSXQncyBhIGRlbW9uc3RyYXRpb24gdGhhdCBhIHdlbGwtc3RydWN0dXJlZCBtYXJrZG93biByZWZlcmVuY2UgZnJhbWV3b3JrIHBsdXMgYSBzbWFsbCwgaG9uZXN0IHN1cmZhY2UgaXMgZW5vdWdoIHRvIG1ha2Ugb24tYnJhbmQgcHJvZHVjdGlvbiBzZWxmLXNlcnZlLgo=
+# Architecture — Message Variant Engine
+
+## Overview
+
+Message Variant Engine is a Chrome extension (Manifest V3) with a popup UI. It has three layers: a **front-end surface**, an **AI/model layer**, and a **prompt layer** that binds the brand system to user input.
+
+```
+┌─────────────────────────────────────────────┐
+│  Front-end surface (Chrome extension  with a popup UI)   │
+│  • collects user input                        │
+│  • stores settings locally (chrome.storage)   │
+└───────────────┬───────────────────────────────┘
+                │  composes
+                ▼
+┌─────────────────────────────────────────────┐
+│  Prompt layer (the AI skill)                 │
+│  • design-system.md rules + ai-skills/*.md    │
+│  • user input + locked sections               │
+│  • assembles a structured instruction set     │
+└───────────────┬───────────────────────────────┘
+                │  request (user's own API key)
+                ▼
+┌─────────────────────────────────────────────┐
+│  AI/model layer                              │
+│  • Anthropic Claude (bring-your-own API key)
+│  • called directly from the browser           │
+└─────────────────────────────────────────────┘
+```
+
+## 1. Front-end surface
+
+- Built on Chrome **Manifest V3**.
+- A popup UI provides the workspace.
+- Settings, brand config, and the API key are persisted with `chrome.storage` — local only.
+
+## 2. Prompt layer (the AI skill)
+
+This is the design-critical layer. It:
+
+- Loads the brand rules from the design system as a reference framework.
+- Merges them with the user's input and any locked content.
+- Produces a **structured instruction set** with explicit constraints, format specs, and examples — see [`../ai-skills/message-adaptation-skill.md`](../ai-skills/message-adaptation-skill.md).
+- Because the rules are markdown, they are edited without touching code.
+
+## 3. AI/model layer
+
+- Anthropic Claude (bring-your-own API key).
+- The request goes **directly from the browser** to `api.anthropic.com` using the user's own key — there is no intermediary server.
+
+
+## Data flow & privacy
+
+1. User enters input in the extension.
+2. The prompt layer assembles the instruction set locally.
+3. A single authenticated request goes to the model provider.
+4. The response is rendered in the UI.
+
+No data touches any server operated by this project — because there isn't one. See [`../PRIVACY.md`](../PRIVACY.md).
+
+## Why this shape
+
+The architecture is deliberately thin so the **design system and the AI skill** — not the plumbing — are the substance. It's a demonstration that a well-structured markdown reference framework plus a small, honest surface is enough to make on-brand production self-serve.
