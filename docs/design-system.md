@@ -1,1 +1,58 @@
-IyBEZXNpZ24gU3lzdGVtIOKAlCBNZXNzYWdlIFZhcmlhbnQgRW5naW5lCgo+IFRoaXMgZG9jdW1lbnQgaXMgdGhlICoqc2luZ2xlIHNvdXJjZSBvZiB0cnV0aCoqIGZvciBob3cgTWVzc2FnZSBWYXJpYW50IEVuZ2luZSBwcm9kdWNlcyBvbi1icmFuZCBvdXRwdXQuIEl0IGlzIGludGVudGlvbmFsbHkgd3JpdHRlbiBpbiBtYXJrZG93biBzbyBpdCBjYW4gYmUgdmVyc2lvbmVkLCByZXZpZXdlZCwgYW5kIHJldXNlZCB0aGUgd2F5IGEgZGVzaWduIHRlYW0gcmV2aWV3cyBjb21wb25lbnRzLiBUaGUgQUkgc2tpbGwgaW4gW2AuLi9haS1za2lsbHMvbWVzc2FnZS1hZGFwdGF0aW9uLXNraWxsLm1kYF0oLi4vYWktc2tpbGxzL21lc3NhZ2UtYWRhcHRhdGlvbi1za2lsbC5tZCkgY29uc3VtZXMgdGhlc2UgcnVsZXMgZGlyZWN0bHkuCgojIyAxLiBCcmFuZCB2b2ljZQoKVm9pY2UgaXMgdGhlIGNvbnN0YW50OyBldmVyeXRoaW5nIGVsc2UgYWRhcHRzIGFyb3VuZCBpdC4KCi0gKipQZXJzb25hbGl0eToqKiBjbGVhciwgY29uZmlkZW50LCBodW1hbi4gTmV2ZXIgY29ycG9yYXRlLXN0aWZmLCBuZXZlciBnaW1taWNreS4KLSAqKlBvaW50IG9mIHZpZXc6Kiogc3BlYWsgKnRvKiB0aGUgcmVhZGVyLCBub3QgKmF0KiB0aGVtLiBTZWNvbmQgcGVyc29uLCBhY3RpdmUgdm9pY2UuCi0gKipXaGF0IHdlIHNvdW5kIGxpa2U6KiogZGlyZWN0LCB3YXJtLCBzcGVjaWZpYy4KLSAqKldoYXQgd2UgbmV2ZXIgc291bmQgbGlrZToqKiBoeXBlLXksIGphcmdvbi1oZWF2eSwgaGVkZ2luZywgb3IgZmlsbGVyLXBhZGRlZC4KCiMjIDIuIFRvbmUgcnVsZXMKClRvbmUgZmxleGVzIGJ5IGNvbnRleHQsIHdpdGhpbiBndWFyZHJhaWxzOgoKLSBNYXRjaCB0aGUgcmVhZGVyJ3MgZW1vdGlvbmFsIHN0YXRlOyBuZXZlciBvdmVyY2xhaW0uCi0gT25lIGlkZWEgcGVyIHNlbnRlbmNlOyBjdXQgcXVhbGlmaWVycyAoImp1c3QsIiAidmVyeSwiICJyZWFsbHkiKS4KLSBQcmVmZXIgY29uY3JldGUgbm91bnMgYW5kIHZlcmJzIG92ZXIgYWJzdHJhY3Rpb25zLgotIFJlYWQgaXQgYWxvdWQg4oCUIGlmIGl0IHNvdW5kcyBsaWtlIGEgcHJlc3MgcmVsZWFzZSwgcmV3cml0ZSBpdC4KCiMjIDMuIFZvY2FidWxhcnkKCi0gKipVc2U6KiogdGhlIHByb2R1Y3QncyByZWFsIG5hbWVzIGFuZCB0aGUgYXVkaWVuY2UncyBvd24gd29yZHMuCi0gKipBdm9pZDoqKiBpbnRlcm5hbCBqYXJnb24sIGFjcm9ueW1zIHdpdGhvdXQgZXhwYW5zaW9uLCBiYW5uZWQgd29yZHMgY29uZmlndXJlZCBieSB0aGUgYnJhbmQgb3duZXIuCi0gKipMb2NrZWQgdGVybXM6KiogcHJvZHVjdCBuYW1lcywgbGVnYWwgbGFuZ3VhZ2UsIGFuZCBjbGFpbXMgYXJlIHZlcmJhdGltIGFuZCBuZXZlciBwYXJhcGhyYXNlZC4KCiMjIDQuIFR5cGUsIGNvbG9yICYgbGF5b3V0IHByaW5jaXBsZXMKCkFsdGhvdWdoIE1lc3NhZ2UgVmFyaWFudCBFbmdpbmUgb3V0cHV0cyBwcmltYXJpbHkgdGV4dCwgaXRzIFVJIGFuZCBhbnkgcmVuZGVyZWQgb3V0cHV0IGZvbGxvdyB0aGUgc2FtZSBkZXNpZ24gZGlzY2lwbGluZToKCi0gKipUeXBlOioqIGEgY2xlYXIgaGllcmFyY2h5IOKAlCBvbmUgaGVhZGluZyBsZXZlbCBwZXIgbGV2ZWwgb2YgbWVhbmluZzsgZ2VuZXJvdXMgbGluZSBsZW5ndGggbGltaXRzIGZvciByZWFkYWJpbGl0eS4KLSAqKkNvbG9yOioqIGZ1bmN0aW9uYWwgZmlyc3QgKHN0YXRlLCBlbXBoYXNpcyksIGJyYW5kIHNlY29uZDsgc3VmZmljaWVudCBjb250cmFzdCAoV0NBRyBBQSkuCi0gKipMYXlvdXQ6Kiogd2hpdGVzcGFjZSBpcyBhIGZlYXR1cmU7IGdyb3VwIHJlbGF0ZWQgZmllbGRzOyBvbmUgcHJpbWFyeSBhY3Rpb24gcGVyIHZpZXcuCi0gKipSaHl0aG06KiogY29uc2lzdGVudCBzcGFjaW5nIHNjYWxlOyBub3RoaW5nIGFyYml0cmFyeS4KCiMjIDUuIEFkYXB0YXRpb24gcnVsZXMgKHdoYXQgbWF5IGZsZXgpCgpFYWNoIGNoYW5uZWwgaW1wb3NlcyBpdHMgb3duIHNoYXBlIGFuZCBldGlxdWV0dGUuIFRoZSBza2lsbCBlbmNvZGVzOgoKfCBDaGFubmVsIHwgTGVuZ3RoIHRhcmdldCB8IFRvbmUgc2hpZnQgfCBGb3JtYXR0aW5nIHwKfC0tLXwtLS18LS0tfC0tLXwKfCBFbWFpbCB8IDYw4oCTMTIwIHdvcmRzIHwgV2FybSwgY29tcGxldGUgc2VudGVuY2VzIHwgR3JlZXRpbmcgKyBib2R5ICsgc2lnbi1vZmYgfAp8IEluLWFwcCB8IDHigJMyIHNlbnRlbmNlcyB8IERpcmVjdCwgcHJlc2VudCB0ZW5zZSB8IE5vIGdyZWV0aW5nOyBhY3Rpb24tZmlyc3QgfAp8IFB1c2ggLyBTTVMgfCDiiaQgMTQwIGNoYXJzIHwgVXJnZW50IGJ1dCBodW1hbiB8IFNpbmdsZSBDVEEgfAp8IFNhbGVzIG91dHJlYWNoIHwgNDDigJM4MCB3b3JkcyB8IFBlcnNvbmFsLCBsb3ctcHJlc3N1cmUgfCBGaXJzdC1uYW1lIGdyZWV0aW5nIHwKCiMjIDYuIEd1YXJkcmFpbHMgKHdoYXQgbXVzdCBuZXZlciBicmVhaykKCi0gTmV2ZXIgYWx0ZXIgbG9ja2VkIHNlY3Rpb25zL3Rlcm1zLgotIE5ldmVyIGludmVudCBmYWN0cywgY2xhaW1zLCBwcmljZXMsIG9yIGZlYXR1cmVzLgotIE5ldmVyIGJyZWFrIHBsYXRmb3JtL2Zvcm1hdCBoYXJkIGxpbWl0cy4KLSBOZXZlciBkcmlmdCBmcm9tIHRoZSBicmFuZCB2b2ljZSBkZWZpbmVkIGluIMKnMeKAk8KnMywgcmVnYXJkbGVzcyBvZiBhdWRpZW5jZS4KCiMjIDcuIEhvdyB0aGlzIGJlY29tZXMgYmVoYXZpb3IKClRoZXNlIHJ1bGVzIGFyZSBub3QgZG9jdW1lbnRhdGlvbiAqYWJvdXQqIHRoZSBwcm9kdWN0IOKAlCB0aGV5IGFyZSB0aGUgcHJvZHVjdCdzICoqaW5zdHJ1Y3Rpb25zKiouIFRoZSBBSSBza2lsbCBjb21wb3NlcyB0aGVtIHdpdGggdXNlciBpbnB1dCBhdCBydW50aW1lLCBzbyBlZGl0aW5nIHRoaXMgZmlsZSBjaGFuZ2VzIHRoZSBvdXRwdXQuIFRoYXQgaXMgdGhlIGNvcmUgaWRlYTogKiptYXJrZG93bi1iYXNlZCBicmFuZCBkb2N1bWVudGF0aW9uIGFzIGV4ZWN1dGFibGUgc291cmNlIG9mIHRydXRoLioqCg==
+# Design System — Message Variant Engine
+
+> This document is the **single source of truth** for how Message Variant Engine produces on-brand output. It is intentionally written in markdown so it can be versioned, reviewed, and reused the way a design team reviews components. The AI skill in [`../ai-skills/message-adaptation-skill.md`](../ai-skills/message-adaptation-skill.md) consumes these rules directly.
+
+## 1. Brand voice
+
+Voice is the constant; everything else adapts around it.
+
+- **Personality:** clear, confident, human. Never corporate-stiff, never gimmicky.
+- **Point of view:** speak *to* the reader, not *at* them. Second person, active voice.
+- **What we sound like:** direct, warm, specific.
+- **What we never sound like:** hype-y, jargon-heavy, hedging, or filler-padded.
+
+## 2. Tone rules
+
+Tone flexes by context, within guardrails:
+
+- Match the reader's emotional state; never overclaim.
+- One idea per sentence; cut qualifiers ("just," "very," "really").
+- Prefer concrete nouns and verbs over abstractions.
+- Read it aloud — if it sounds like a press release, rewrite it.
+
+## 3. Vocabulary
+
+- **Use:** the product's real names and the audience's own words.
+- **Avoid:** internal jargon, acronyms without expansion, banned words configured by the brand owner.
+- **Locked terms:** product names, legal language, and claims are verbatim and never paraphrased.
+
+## 4. Type, color & layout principles
+
+Although Message Variant Engine outputs primarily text, its UI and any rendered output follow the same design discipline:
+
+- **Type:** a clear hierarchy — one heading level per level of meaning; generous line length limits for readability.
+- **Color:** functional first (state, emphasis), brand second; sufficient contrast (WCAG AA).
+- **Layout:** whitespace is a feature; group related fields; one primary action per view.
+- **Rhythm:** consistent spacing scale; nothing arbitrary.
+
+## 5. Adaptation rules (what may flex)
+
+Each channel imposes its own shape and etiquette. The skill encodes:
+
+| Channel | Length target | Tone shift | Formatting |
+|---|---|---|---|
+| Email | 60–120 words | Warm, complete sentences | Greeting + body + sign-off |
+| In-app | 1–2 sentences | Direct, present tense | No greeting; action-first |
+| Push / SMS | ≤ 140 chars | Urgent but human | Single CTA |
+| Sales outreach | 40–80 words | Personal, low-pressure | First-name greeting |
+
+## 6. Guardrails (what must never break)
+
+- Never alter locked sections/terms.
+- Never invent facts, claims, prices, or features.
+- Never break platform/format hard limits.
+- Never drift from the brand voice defined in §1–§3, regardless of audience.
+
+## 7. How this becomes behavior
+
+These rules are not documentation *about* the product — they are the product's **instructions**. The AI skill composes them with user input at runtime, so editing this file changes the output. That is the core idea: **markdown-based brand documentation as executable source of truth.**
