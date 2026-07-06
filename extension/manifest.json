@@ -1,1 +1,23 @@
-ewogICJtYW5pZmVzdF92ZXJzaW9uIjogMywKICAibmFtZSI6ICJNZXNzYWdlIFZhcmlhbnQgRW5naW5lIC0gRWRpdG9yaWFsIE9TIiwKICAidmVyc2lvbiI6ICIxLjAuMCIsCiAgImRlc2NyaXB0aW9uIjogIk9uZSBtZXNzYWdlLCBhZGFwdGVkIGZvciBtdWx0aXBsZSBhdWRpZW5jZXMsIHJlZ2lvbnMsIG9yIGNoYW5uZWxzIHdpdGggemVybyBpbmNvbnNpc3RlbmN5LiBCcmluZyB5b3VyIG93biBBbnRocm9waWMgQVBJIGtleS4iLAogICJwZXJtaXNzaW9ucyI6IFsic3RvcmFnZSJdLAogICJob3N0X3Blcm1pc3Npb25zIjogWyJodHRwczovL2FwaS5hbnRocm9waWMuY29tLyoiXSwKICAiYWN0aW9uIjogewogICAgImRlZmF1bHRfcG9wdXAiOiAicG9wdXAuaHRtbCIsCiAgICAiZGVmYXVsdF9pY29uIjogewogICAgICAiMTYiOiAiaWNvbnMvaWNvbjE2LnBuZyIsCiAgICAgICIzMiI6ICJpY29ucy9pY29uMzIucG5nIiwKICAgICAgIjQ4IjogImljb25zL2ljb240OC5wbmciLAogICAgICAiMTI4IjogImljb25zL2ljb24xMjgucG5nIgogICAgfQogIH0sCiAgImljb25zIjogewogICAgIjE2IjogImljb25zL2ljb24xNi5wbmciLAogICAgIjMyIjogImljb25zL2ljb24zMi5wbmciLAogICAgIjQ4IjogImljb25zL2ljb240OC5wbmciLAogICAgIjEyOCI6ICJpY29ucy9pY29uMTI4LnBuZyIKICB9Cn0K
+{
+  "manifest_version": 3,
+  "name": "Message Variant Engine - Editorial OS",
+  "version": "1.0.0",
+  "description": "One message, adapted for multiple audiences, regions, or channels with zero inconsistency. Bring your own Anthropic API key.",
+  "permissions": ["storage"],
+  "host_permissions": ["https://api.anthropic.com/*"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
