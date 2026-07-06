@@ -1,1 +1,55 @@
-IyBQUkQg4oCUIE1lc3NhZ2UgVmFyaWFudCBFbmdpbmUKCiMjIFByb2JsZW0KClRoZSBtb21lbnQgYSBtZXNzYWdlIGhhcyB0byByZWFjaCBtb3JlIHRoYW4gb25lIGF1ZGllbmNlLCBicmFuZCB2b2ljZSBzdGFydHMgdG8gZnJhZ21lbnQuIEEgbWFya2V0ZXIgcmV3cml0ZXMgaXQgZm9yIGVudGVycHJpc2UsIGEgQ1MgbGVhZCBzb2Z0ZW5zIGl0IGZvciBjaHVybmVkIHVzZXJzLCBhIHJlZ2lvbmFsIHRlYW0gbG9jYWxpemVzIGl0IGZvciBBUEFDIOKAlCBhbmQgdGhyZWUgd2Vla3MgbGF0ZXIgdGhlIGJyYW5kIHNvdW5kcyBsaWtlIGZpdmUgZGlmZmVyZW50IGNvbXBhbmllcy4gVGhlIHJld3JpdGUgd29yayBpcyBpbnZpc2libGUsIHVub3duZWQsIGFuZCBpbXBvc3NpYmxlIHRvIGtlZXAgY29uc2lzdGVudCBieSBwb2xpY3kgYWxvbmUuCgojIyBTb2x1dGlvbgoKTWVzc2FnZSBWYXJpYW50IEVuZ2luZSBlbmNvZGVzIHlvdXIgYnJhbmQgdm9pY2UgYXMgYSByZXVzYWJsZSBBSSBza2lsbCwgdGhlbiBnZW5lcmF0ZXMgcGVyc29uYS0sIHJlZ2lvbi0sIGFuZCBjaGFubmVsLXNwZWNpZmljIHZhcmlhbnRzIGZyb20gYSBzaW5nbGUgbWFzdGVyIG1lc3NhZ2UuIFNlY3Rpb25zIHlvdSBtYXJrIGFzIGxvY2tlZCAobGVnYWwgbGFuZ3VhZ2UsIHByb2R1Y3QgbmFtZXMsIENUQXMsIGNsYWltcykgc3RheSB2ZXJiYXRpbTsgZXZlcnl0aGluZyBlbHNlIGZsZXhlcyB0byB0aGUgYXVkaWVuY2UuIFRoZSBicmFuZCBvd25lciBkZWZpbmVzIHRoZSBzeXN0ZW0gb25jZTsgYW55b25lIG9uIHRoZSB0ZWFtIHByb2R1Y2VzIG9uLWJyYW5kIHZhcmlhbnRzIGluIHNlY29uZHMuCgojIyBVc2VycwoKQnJhbmQgJiBkZXNpZ24gb3duZXJzICh3aG8gZGVmaW5lIGFuZCBwcm90ZWN0IHRoZSB2b2ljZSkgYW5kIG5vbi1kZXNpZ25lcnMg4oCUIG1hcmtldGVycywgY3VzdG9tZXIgc3VjY2Vzcywgc2FsZXMsIHJlZ2lvbmFsIHRlYW1zIOKAlCB3aG8gbmVlZCBhdWRpZW5jZS1zcGVjaWZpYyBjb3B5IHdpdGhvdXQgZ29pbmcgb2ZmLWJyYW5kLgoKIyMjIFByaW1hcnkgcGVyc29uYXMKCjEuICoqVGhlIEJyYW5kL0Rlc2lnbiBPd25lcioqIOKAlCBkZWZpbmVzIHRoZSB2b2ljZSwgcnVsZXMsIGFuZCBzdGFuZGFyZHMuIFdhbnRzIGxldmVyYWdlOiB0byBlbmNvZGUgdGhlaXIganVkZ21lbnQgb25jZSBhbmQgaGF2ZSBpdCBhcHBsaWVkIGV2ZXJ5d2hlcmUgd2l0aG91dCBiZWNvbWluZyBhIGJvdHRsZW5lY2suCjIuICoqVGhlIE5vbi1EZXNpZ25lciBQcm9kdWNlcioqIOKAlCBuZWVkcyBvbi1icmFuZCBvdXRwdXQgYnV0IGxhY2tzIGRlc2lnbi9icmFuZCB0cmFpbmluZy4gV2FudHMgc3BlZWQgYW5kIGNvbmZpZGVuY2UgdGhhdCB3aGF0IHRoZXkgc2hpcCB3b24ndCBiZSAib2ZmLiIKCiMjIEdvYWxzCgotICoqRzEg4oCUIE9uLWJyYW5kIGJ5IGRlZmF1bHQuKiogT3V0cHV0IHNob3VsZCBiZSBjb25zaXN0ZW50IHdpdGggdGhlIGJyYW5kIHN5c3RlbSB3aXRob3V0IHRoZSB1c2VyIGhhdmluZyB0byBrbm93IHRoZSBydWxlcy4KLSAqKkcyIOKAlCBTZWxmLXNlcnZlLioqIEEgbm9uLWRlc2lnbmVyIGNvbXBsZXRlcyB0aGUgdGFzayBlbmQtdG8tZW5kIHdpdGhvdXQgZXNjYWxhdGluZyB0byB0aGUgZGVzaWduIHRlYW0uCi0gKipHMyDigJQgT3duZWQgc3lzdGVtLioqIFRoZSBicmFuZCBydWxlcyBsaXZlIGFzIGEgcmVhZGFibGUsIHZlcnNpb25hYmxlIHJlZmVyZW5jZSBmcmFtZXdvcmsgKG1hcmtkb3duKSwgbm90IHRyaWJhbCBrbm93bGVkZ2UuCi0gKipHNCDigJQgWmVybyBiYWNrZW5kLioqIE5vIGFjY291bnRzLCBubyBzZXJ2ZXIsIG5vIGRhdGEgY29sbGVjdGlvbiDigJQgdHJ1c3QgYW5kIGF1ZGl0YWJpbGl0eSBieSBkZXNpZ24uCgojIyBSZXF1aXJlbWVudHMKCiMjIyBGdW5jdGlvbmFsCi0gQWNjZXB0IHRoZSB1c2VyJ3MgaW5wdXQ6IE1hc3RlciBtZXNzYWdlLCB0YXJnZXQgcGVyc29uYXMsIHRhcmdldCByZWdpb25zL2xvY2FsZXMsIHRhcmdldCBjaGFubmVscywgYW5kIGFueSBsb2NrZWQgKHZlcmJhdGltKSBzZWN0aW9ucy4KLSBQcm9kdWNlOiBPbmUgb24tYnJhbmQgdmFyaWFudCBwZXIgcGVyc29uYSDDlyByZWdpb24gw5cgY2hhbm5lbCBjb21iaW5hdGlvbiwgd2l0aCBsb2NrZWQgc2VjdGlvbnMgcHJlc2VydmVkIGV4YWN0bHkuCi0gTGV0IHRoZSBicmFuZCBvd25lciBjb25maWd1cmUgdm9pY2UvcnVsZXMgdGhhdCBjb25zdHJhaW4gZXZlcnkgZ2VuZXJhdGlvbi4KLSBTdG9yZSBzZXR0aW5ncyBsb2NhbGx5OyBuZXZlciByZXF1aXJlIGFuIGFjY291bnQuCgojIyMgTm9uLWZ1bmN0aW9uYWwKLSAqKlByaXZhY3k6KiogYWxsIGRhdGEgc3RheXMgb24tZGV2aWNlIGV4Y2VwdCB0aGUgZGlyZWN0LCB1c2VyLWtleWVkIGNhbGwgdG8gQW50aHJvcGljIENsYXVkZSAoYnJpbmcteW91ci1vd24gQVBJIGtleSkuCi0gKipMYXRlbmN5OioqIGEgZnVsbCBnZW5lcmF0aW9uIGNvbXBsZXRlcyBpbiBhIGZldyBzZWNvbmRzLgotICoqQXVkaXRhYmlsaXR5OioqIHRoZSBlbnRpcmUgYmVoYXZpb3IgaXMgb3BlbiBzb3VyY2UgYW5kIGluc3BlY3RhYmxlLgotICoqRXh0ZW5zaWJpbGl0eToqKiB0aGUgcnVsZSBzZXQgaXMgbW9kdWxhciBtYXJrZG93biwgZWRpdGFibGUgd2l0aG91dCB0b3VjaGluZyBjb2RlLgoKIyMgU3VjY2VzcyAmIGFkb3B0aW9uIG1ldHJpY3MKCnwgTWV0cmljIHwgRGVmaW5pdGlvbiB8IFRhcmdldCBzaWduYWwgfAp8LS0tfC0tLXwtLS18CnwgQWN0aXZhdGlvbiB8IFVzZXIgY29tcGxldGVzIG9uZSByZWFsIGdlbmVyYXRpb24gfCBGaXJzdC1zZXNzaW9uIHN1Y2Nlc3MgfAp8IFNlbGYtc2VydmUgcmF0ZSB8IFRhc2tzIGNvbXBsZXRlZCB3aXRob3V0IGRlc2lnbi10ZWFtIHJldmlldyB8IOKGkSBvdmVyIHRpbWUgfAp8IE9uLWJyYW5kIGFjY2VwdGFuY2UgfCBPdXRwdXQgc2hpcHBlZCB3aXRoIG1pbmltYWwgZWRpdHMgfCBMb3cgZWRpdCBkaXN0YW5jZSB8CnwgUmVwZWF0IHVzZSB8IFJldHVybiB3aXRoaW4gNyBkYXlzIHwgSGFiaXR1YWwgdXNlIHwKfCBSdWxlIHJldXNlIHwgQnJhbmQgY29uZmlnIHJldXNlZCBhY3Jvc3MgZ2VuZXJhdGlvbnMgfCBFbmNvZGVkIHZvaWNlIHBheXMgb2ZmIHwKCiMjIE5vbi1nb2FscwoKLSBOb3QgYW4gYXV0b25vbW91cyBhZ2VudCwgYW5kIG5vdCBhbiBldmFscyBoYXJuZXNzLiBUaGlzIGlzIGFuICoqQUkgc2tpbGwqKjogYSBzdHJ1Y3R1cmVkLCBodW1hbi1kaXJlY3RlZCBpbnN0cnVjdGlvbiBzZXQgdGhhdCBwcm9kdWNlcyByZWxpYWJsZSwgb24tYnJhbmQgb3V0cHV0LgotIE5vdCBhIGNvbnRlbnQgZGF0YWJhc2Ugb3IgQ01TLgotIE5vdCBhIHJlcGxhY2VtZW50IGZvciB0aGUgYnJhbmQvZGVzaWduIG93bmVyIOKAlCBhIGZvcmNlIG11bHRpcGxpZXIgZm9yIHRoZW0uCg==
+# PRD — Message Variant Engine
+
+## Problem
+
+The moment a message has to reach more than one audience, brand voice starts to fragment. A marketer rewrites it for enterprise, a CS lead softens it for churned users, a regional team localizes it for APAC — and three weeks later the brand sounds like five different companies. The rewrite work is invisible, unowned, and impossible to keep consistent by policy alone.
+
+## Solution
+
+Message Variant Engine encodes your brand voice as a reusable AI skill, then generates persona-, region-, and channel-specific variants from a single master message. Sections you mark as locked (legal language, product names, CTAs, claims) stay verbatim; everything else flexes to the audience. The brand owner defines the system once; anyone on the team produces on-brand variants in seconds.
+
+## Users
+
+Brand & design owners (who define and protect the voice) and non-designers — marketers, customer success, sales, regional teams — who need audience-specific copy without going off-brand.
+
+### Primary personas
+
+1. **The Brand/Design Owner** — defines the voice, rules, and standards. Wants leverage: to encode their judgment once and have it applied everywhere without becoming a bottleneck.
+2. **The Non-Designer Producer** — needs on-brand output but lacks design/brand training. Wants speed and confidence that what they ship won't be "off."
+
+## Goals
+
+- **G1 — On-brand by default.** Output should be consistent with the brand system without the user having to know the rules.
+- **G2 — Self-serve.** A non-designer completes the task end-to-end without escalating to the design team.
+- **G3 — Owned system.** The brand rules live as a readable, versionable reference framework (markdown), not tribal knowledge.
+- **G4 — Zero backend.** No accounts, no server, no data collection — trust and auditability by design.
+
+## Requirements
+
+### Functional
+- Accept the user's input: Master message, target personas, target regions/locales, target channels, and any locked (verbatim) sections.
+- Produce: One on-brand variant per persona × region × channel combination, with locked sections preserved exactly.
+- Let the brand owner configure voice/rules that constrain every generation.
+- Store settings locally; never require an account.
+
+### Non-functional
+- **Privacy:** all data stays on-device except the direct, user-keyed call to Anthropic Claude (bring-your-own API key).
+- **Latency:** a full generation completes in a few seconds.
+- **Auditability:** the entire behavior is open source and inspectable.
+- **Extensibility:** the rule set is modular markdown, editable without touching code.
+
+## Success & adoption metrics
+
+| Metric | Definition | Target signal |
+|---|---|---|
+| Activation | User completes one real generation | First-session success |
+| Self-serve rate | Tasks completed without design-team review | ↑ over time |
+| On-brand acceptance | Output shipped with minimal edits | Low edit distance |
+| Repeat use | Return within 7 days | Habitual use |
+| Rule reuse | Brand config reused across generations | Encoded voice pays off |
+
+## Non-goals
+
+- Not an autonomous agent, and not an evals harness. This is an **AI skill**: a structured, human-directed instruction set that produces reliable, on-brand output.
+- Not a content database or CMS.
+- Not a replacement for the brand/design owner — a force multiplier for them.
