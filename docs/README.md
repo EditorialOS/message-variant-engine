@@ -1,1 +1,12 @@
-IyBEb2NzIOKAlCBNZXNzYWdlIFZhcmlhbnQgRW5naW5lCgpTdGFydCBoZXJlIHRvIHVuZGVyc3RhbmQgdGhlIHByb2plY3QuCgp8IERvY3VtZW50IHwgV2hhdCBpdCBjb3ZlcnMgfAp8LS0tfC0tLXwKfCBbUFJELm1kXShQUkQubWQpIHwgUHJvYmxlbSwgdXNlcnMsIGdvYWxzLCByZXF1aXJlbWVudHMsIHN1Y2Nlc3MgJiBhZG9wdGlvbiBtZXRyaWNzIHwKfCBbZGVzaWduLXN5c3RlbS5tZF0oZGVzaWduLXN5c3RlbS5tZCkgfCBUaGUgYnJhbmQgc3lzdGVtIGFzIHNvdXJjZSBvZiB0cnV0aDogdm9pY2UsIHRvbmUsIHR5cGUvY29sb3IvbGF5b3V0LCBhbmQgY29udGVudCBydWxlcyB0aGUgdG9vbCBlbmZvcmNlcyB8CnwgW2FyY2hpdGVjdHVyZS5tZF0oYXJjaGl0ZWN0dXJlLm1kKSB8IEhvdyBpdCB3b3JrczogZnJvbnQtZW5kIHN1cmZhY2UsIEFJL21vZGVsIGxheWVyLCBhbmQgdGhlIHByb21wdCBsYXllciB8CnwgW2NpLXdvcmtmbG93LnltbF0oY2ktd29ya2Zsb3cueW1sKSB8IENJIGRlZmluaXRpb24g4oCUIG1vdmUgdG8gYC5naXRodWIvd29ya2Zsb3dzL2NpLnltbGAgdG8gZW5hYmxlIHwKClNlZSBhbHNvIHRoZSBBSSBza2lsbCBpdHNlbGYgaW4gW2AuLi9haS1za2lsbHMvbWVzc2FnZS1hZGFwdGF0aW9uLXNraWxsLm1kYF0oLi4vYWktc2tpbGxzL21lc3NhZ2UtYWRhcHRhdGlvbi1za2lsbC5tZCkg4oCUIHRoZSBzdHJ1Y3R1cmVkIGluc3RydWN0aW9uIHNldCBhdCB0aGUgaGVhcnQgb2YgdGhlIHRvb2wuCg==
+# Docs — Message Variant Engine
+
+Start here to understand the project.
+
+| Document | What it covers |
+|---|---|
+| [PRD.md](PRD.md) | Problem, users, goals, requirements, success & adoption metrics |
+| [design-system.md](design-system.md) | The brand system as source of truth: voice, tone, type/color/layout, and content rules the tool enforces |
+| [architecture.md](architecture.md) | How it works: front-end surface, AI/model layer, and the prompt layer |
+| [ci-workflow.yml](ci-workflow.yml) | CI definition — move to `.github/workflows/ci.yml` to enable |
+
+See also the AI skill itself in [`../ai-skills/message-adaptation-skill.md`](../ai-skills/message-adaptation-skill.md) — the structured instruction set at the heart of the tool.
