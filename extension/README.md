@@ -1,1 +1,68 @@
-IyBNZXNzYWdlIFZhcmlhbnQgRW5naW5lIOKAlCBFZGl0b3JpYWwgT1MKCj4gT25lIG1lc3NhZ2UuIE11bHRpcGxlIGF1ZGllbmNlcy4gWmVybyBpbmNvbnNpc3RlbmN5LgoKQSBDaHJvbWUgZXh0ZW5zaW9uIHRoYXQgYWRhcHRzIG9uZSBtYXN0ZXIgbWVzc2FnZSBmb3IgbXVsdGlwbGUgcGVyc29uYXMsIHJlZ2lvbnMsIG9yIGNoYW5uZWxzIGluIGEgc2luZ2xlIHBhc3Mg4oCUIHdoaWxlIGtlZXBpbmcga2V5IGZhY3RzLCBhbmQgYW55IGxvY2tlZCBsZWdhbC9jb21wbGlhbmNlIGxhbmd1YWdlLCBpZGVudGljYWwgYWNyb3NzIGV2ZXJ5IHZhcmlhbnQuCgoqKkJyaW5nIHlvdXIgb3duIEFQSSBrZXkuKiogVGhlIGV4dGVuc2lvbiBjYWxscyB0aGUgQW50aHJvcGljIEFQSSBkaXJlY3RseSB3aXRoIGEga2V5IHlvdSBwcm92aWRlLiBUaGUga2V5IGlzIHN0b3JlZCBpbiBsb2NhbCBicm93c2VyIHN0b3JhZ2Ugb24geW91ciBkZXZpY2UgYW5kIGlzIHNlbnQgbm93aGVyZSBleGNlcHQgZGlyZWN0bHkgdG8gQW50aHJvcGljLgoKIyMgV2h5CgpUaGUgZmFpbHVyZSBtb2RlIG9mIG11bHRpLWF1ZGllbmNlIGNvbW11bmljYXRpb24gaXNuJ3QgYmFkIHdyaXRpbmcg4oCUIGl0J3MgZHJpZnQuIEZpdmUgcGVvcGxlIGFkYXB0IHRoZSBzYW1lIGFubm91bmNlbWVudCBhbmQgZml2ZSBzbGlnaHRseSBkaWZmZXJlbnQgc2V0cyBvZiBmYWN0cyBnbyBvdXQuIE1lc3NhZ2UgVmFyaWFudCBFbmdpbmUgaG9sZHMgdGhlIG1hc3RlciBtZXNzYWdlIGNvbnN0YW50IGFuZCB2YXJpZXMgb25seSB3aGF0IHNob3VsZCB2YXJ5OiB0b25lLCBmcmFtaW5nLCBlbXBoYXNpcywgYW5kIGZvcm1hdC4KCiMjIEZlYXR1cmVzCgotICoqVGhyZWUgYWRhcHRhdGlvbiBtb2RlcyoqIOKAlCBQZXJzb25hIChHZW4gWiwgQnVzaW5lc3MgRXhlYywgRW50ZXJwcmlzZSBCdXllcuKApiksIFJlZ2lvbiAoQVBBQywgTEFUQU0sIEVVIENvcnBvcmF0ZeKApiksIENoYW5uZWwgKEludGVybmFsIENvbW1zLCBFeHRlcm5hbCBQcmVzcywgSW52ZXN0b3IgUmVsYXRpb25z4oCmKQotICoqTG9ja2VkIHNlY3Rpb25zKiog4oCUIG1hcmsgbGVnYWwsIHByaWNpbmcsIG9yIGNvbXBsaWFuY2UgdGV4dCBhbmQgaXQgYXBwZWFycyB2ZXJiYXRpbSBpbiBldmVyeSB2YXJpYW50Ci0gKipVcCB0byAzIHZhcmlhbnRzIHBlciBydW4qKiDigJQgZWFjaCBhZGFwdGVkIHRvIGl0cyB0YXJnZXQgcHJvZmlsZSB3aXRoIGZhY3RzIGhlbGQgY29uc2lzdGVudAotICoqQ29weSBvciBkb3dubG9hZCoqIGVhY2ggdmFyaWFudCBpbmRpdmlkdWFsbHkKLSAqKk5vIGJyYW5kIGFzc3VtcHRpb25zKiog4oCUIHRoZSBtYXN0ZXIgbWVzc2FnZSB5b3UgcHJvdmlkZSBpcyB0aGUgb25seSBzb3VyY2Ugb2YgcHJvZHVjdCBvciBicmFuZCBjb250ZXh0CgojIyBJbnN0YWxsYXRpb24KCioqRnJvbSB0aGUgQ2hyb21lIFdlYiBTdG9yZToqKiAobGluayBvbmNlIHB1Ymxpc2hlZCkKCioqRGV2ZWxvcGVyIG1vZGU6KioKMS4gRG93bmxvYWQgb3IgY2xvbmUgdGhpcyBmb2xkZXIKMi4gT3BlbiBgY2hyb21lOi8vZXh0ZW5zaW9ucy9gCjMuIEVuYWJsZSBEZXZlbG9wZXIgbW9kZSAodG9wIHJpZ2h0KQo0LiBDbGljayAiTG9hZCB1bnBhY2tlZCIgYW5kIHNlbGVjdCB0aGlzIGZvbGRlcgoKVGhlbiBvcGVuIHRoZSBleHRlbnNpb24sIGFkZCB5b3VyIEFudGhyb3BpYyBBUEkga2V5IChmcm9tIFtjb25zb2xlLmFudGhyb3BpYy5jb21dKGh0dHBzOi8vY29uc29sZS5hbnRocm9waWMuY29tKSksIGFuZCBnZW5lcmF0ZS4KCiMjIFByaXZhY3kKCllvdXIgQVBJIGtleSBhbmQgaW5wdXRzIGFyZSBzZW50IGRpcmVjdGx5IHRvIHRoZSBBbnRocm9waWMgQVBJIGFuZCBub3doZXJlIGVsc2UuIE5vdGhpbmcgaXMgY29sbGVjdGVkIGJ5IHRoaXMgZXh0ZW5zaW9uLiBTZWUgW1BSSVZBQ1kubWRdKC4uL1BSSVZBQ1kubWQpLgoKLS0tCgojIyBDaHJvbWUgV2ViIFN0b3JlIGxpc3RpbmcgY29weQoKKipOYW1lOioqIE1lc3NhZ2UgVmFyaWFudCBFbmdpbmUgLSBFZGl0b3JpYWwgT1MKCioqU2hvcnQgZGVzY3JpcHRpb24gKOKJpDEzMiBjaGFycyk6KioKQWRhcHQgb25lIG1hc3RlciBtZXNzYWdlIGZvciBtdWx0aXBsZSBhdWRpZW5jZXMsIHJlZ2lvbnMsIG9yIGNoYW5uZWxzIOKAlCB3aXRoIGtleSBmYWN0cyBhbmQgbG9ja2VkIGxlZ2FsIHRleHQgaGVsZCBpZGVudGljYWwuCgoqKkRldGFpbGVkIGRlc2NyaXB0aW9uOioqCgpTdG9wIGxldHRpbmcgeW91ciBtZXNzYWdlIGRyaWZ0IGFzIGl0IHNwcmVhZHMuCgpNZXNzYWdlIFZhcmlhbnQgRW5naW5lIHRha2VzIG9uZSBtYXN0ZXIgbWVzc2FnZSBhbmQgYWRhcHRzIGl0IGZvciB1cCB0byB0aHJlZSB0YXJnZXQgcHJvZmlsZXMgYXQgb25jZSDigJQgcGVyc29uYXMsIHJlZ2lvbnMsIG9yIGNoYW5uZWxzIOKAlCB3aGlsZSBob2xkaW5nIHRoZSBmYWN0cyBjb25zdGFudC4gTWFyayBsZWdhbCBvciBjb21wbGlhbmNlIGxhbmd1YWdlIGFzIGxvY2tlZCBhbmQgaXQgYXBwZWFycyB2ZXJiYXRpbSBpbiBldmVyeSB2YXJpYW50LgoKTU9ERVMK4oCiIFBlcnNvbmE6IEdlbiBaLCBCdXNpbmVzcyBFeGVjLCBSZW1vdGUgUHJvZmVzc2lvbmFsLCBFbnRlcnByaXNlIEJ1eWVyLCBDcmVhdGl2ZSBQcm8K4oCiIFJlZ2lvbjogQVBBQywgTEFUQU0sIEVVIENvcnBvcmF0ZSwgVVMgUHJlc3MsIE1FTkEK4oCiIENoYW5uZWw6IEludGVybmFsIENvbW1zLCBFeHRlcm5hbCBQcmVzcywgRW1wbG95ZWUgVXBkYXRlLCBDdXN0b21lciBGYWNpbmcsIEludmVzdG9yIFJlbGF0aW9ucwoKSE9XIElUIFdPUktTCuKAoiBQYXN0ZSB5b3VyIG1hc3RlciBtZXNzYWdlIGFuZCBwaWNrIGEgY2FtcGFpZ24gdHlwZQrigKIgT3B0aW9uYWxseSBsb2NrIHNlY3Rpb25zIHRoYXQgbXVzdCBhcHBlYXIgd29yZC1mb3Itd29yZArigKIgU2VsZWN0IHVwIHRvIDMgdGFyZ2V0IHByb2ZpbGVzIGFuZCBnZW5lcmF0ZQrigKIgQ29weSBvciBkb3dubG9hZCBlYWNoIHZhcmlhbnQKCkJSSU5HIFlPVVIgT1dOIEtFWQpSZXF1aXJlcyBhbiBBbnRocm9waWMgQVBJIGtleSAoY29uc29sZS5hbnRocm9waWMuY29tKS4gWW91ciBrZXkgaXMgc3RvcmVkIGxvY2FsbHkgb24geW91ciBkZXZpY2UgYW5kIHNlbnQgb25seSB0byB0aGUgQW50aHJvcGljIEFQSSDigJQgbmV2ZXIgdG8gdXMsIGJlY2F1c2UgdGhlcmUgaXMgbm8gInVzIiBzZXJ2ZXIuIE5vIGFjY291bnRzLCBubyBhbmFseXRpY3MsIG5vIGRhdGEgY29sbGVjdGlvbi4KClBhcnQgb2YgRWRpdG9yaWFsIE9TOiBzeXN0ZW1zIGZvciBjb250ZW50IGFuZCBjb21tdW5pY2F0aW9ucyB0ZWFtcy4KCioqQ2F0ZWdvcnk6KiogUHJvZHVjdGl2aXR5Cg==
+# Message Variant Engine — Editorial OS
+
+> One message. Multiple audiences. Zero inconsistency.
+
+A Chrome extension that adapts one master message for multiple personas, regions, or channels in a single pass — while keeping key facts, and any locked legal/compliance language, identical across every variant.
+
+**Bring your own API key.** The extension calls the Anthropic API directly with a key you provide. The key is stored in local browser storage on your device and is sent nowhere except directly to Anthropic.
+
+## Why
+
+The failure mode of multi-audience communication isn't bad writing — it's drift. Five people adapt the same announcement and five slightly different sets of facts go out. Message Variant Engine holds the master message constant and varies only what should vary: tone, framing, emphasis, and format.
+
+## Features
+
+- **Three adaptation modes** — Persona (Gen Z, Business Exec, Enterprise Buyer…), Region (APAC, LATAM, EU Corporate…), Channel (Internal Comms, External Press, Investor Relations…)
+- **Locked sections** — mark legal, pricing, or compliance text and it appears verbatim in every variant
+- **Up to 3 variants per run** — each adapted to its target profile with facts held consistent
+- **Copy or download** each variant individually
+- **No brand assumptions** — the master message you provide is the only source of product or brand context
+
+## Installation
+
+**From the Chrome Web Store:** (link once published)
+
+**Developer mode:**
+1. Download or clone this folder
+2. Open `chrome://extensions/`
+3. Enable Developer mode (top right)
+4. Click "Load unpacked" and select this folder
+
+Then open the extension, add your Anthropic API key (from [console.anthropic.com](https://console.anthropic.com)), and generate.
+
+## Privacy
+
+Your API key and inputs are sent directly to the Anthropic API and nowhere else. Nothing is collected by this extension. See [PRIVACY.md](../PRIVACY.md).
+
+---
+
+## Chrome Web Store listing copy
+
+**Name:** Message Variant Engine - Editorial OS
+
+**Short description (≤132 chars):**
+Adapt one master message for multiple audiences, regions, or channels — with key facts and locked legal text held identical.
+
+**Detailed description:**
+
+Stop letting your message drift as it spreads.
+
+Message Variant Engine takes one master message and adapts it for up to three target profiles at once — personas, regions, or channels — while holding the facts constant. Mark legal or compliance language as locked and it appears verbatim in every variant.
+
+MODES
+• Persona: Gen Z, Business Exec, Remote Professional, Enterprise Buyer, Creative Pro
+• Region: APAC, LATAM, EU Corporate, US Press, MENA
+• Channel: Internal Comms, External Press, Employee Update, Customer Facing, Investor Relations
+
+HOW IT WORKS
+• Paste your master message and pick a campaign type
+• Optionally lock sections that must appear word-for-word
+• Select up to 3 target profiles and generate
+• Copy or download each variant
+
+BRING YOUR OWN KEY
+Requires an Anthropic API key (console.anthropic.com). Your key is stored locally on your device and sent only to the Anthropic API — never to us, because there is no "us" server. No accounts, no analytics, no data collection.
+
+Part of Editorial OS: systems for content and communications teams.
+
+**Category:** Productivity
