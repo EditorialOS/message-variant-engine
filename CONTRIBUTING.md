@@ -1,1 +1,25 @@
-IyBDb250cmlidXRpbmcgdG8gTWVzc2FnZSBWYXJpYW50IEVuZ2luZQoKVGhhbmtzIGZvciB5b3VyIGludGVyZXN0ISBUaGlzIHByb2plY3QgaXMgaW50ZW50aW9uYWxseSBzbWFsbCwgYXVkaXRhYmxlLCBhbmQgZGVwZW5kZW5jeS1saWdodC4KCiMjIEdyb3VuZCBydWxlcwoKLSAqKlRoZSBkZXNpZ24gc3lzdGVtIGlzIHRoZSBzb3VyY2Ugb2YgdHJ1dGguKiogQmVoYXZpb3JhbCBjaGFuZ2VzIHRvIG91dHB1dCBzaG91bGQgc3RhcnQgaW4gW2Bkb2NzL2Rlc2lnbi1zeXN0ZW0ubWRgXShkb2NzL2Rlc2lnbi1zeXN0ZW0ubWQpIGFuZCBbYGFpLXNraWxscy9gXShhaS1za2lsbHMvKSwgbm90IGJ1cmllZCBpbiBjb2RlLgotICoqTm8gc2VjcmV0cyBpbiBjb21taXRzLioqIEFQSSBrZXlzIGxpdmUgaW4gbG9jYWwgYnJvd3NlciBzdG9yYWdlIG9ubHkuIFNlZSBbLmdpdGlnbm9yZV0oLmdpdGlnbm9yZSkuCi0gKipLZWVwIGl0IGNsaWVudC1zaWRlLioqIE5vIGJhY2tlbmQsIG5vIGFuYWx5dGljcywgbm8gdHJhY2tpbmcuCgojIyBEZXYgc2V0dXAKCjEuIEZvcmsgYW5kIGNsb25lLgoyLiBMb2FkIGBleHRlbnNpb24vYCBhcyBhbiB1bnBhY2tlZCBleHRlbnNpb24gKGBjaHJvbWU6Ly9leHRlbnNpb25zYCDihpIgRGV2ZWxvcGVyIG1vZGUg4oaSIExvYWQgdW5wYWNrZWQpLgozLiBNYWtlIGNoYW5nZXM7IHJlbG9hZCB0aGUgZXh0ZW5zaW9uIHRvIHRlc3QuCgojIyBQdWxsIHJlcXVlc3RzCgotIEtlZXAgUFJzIGZvY3VzZWQgYW5kIGRlc2NyaWJlIHRoZSB1c2VyLWZhY2luZyBjaGFuZ2UuCi0gSWYgeW91IGNoYW5nZSBvdXRwdXQgYmVoYXZpb3IsIHVwZGF0ZSB0aGUgcmVsZXZhbnQgYGFpLXNraWxscy9gIGZpbGUgYW5kIGBkb2NzL2Rlc2lnbi1zeXN0ZW0ubWRgLgotIENJIHZhbGlkYXRlcyB0aGUgbWFuaWZlc3QsIGNoZWNrcyBKUyBzeW50YXgsIGFuZCBjb25maXJtcyByZXF1aXJlZCBkb2NzIGV4aXN0LgoKIyMgUmVwb3J0aW5nIGlzc3VlcwoKT3BlbiBhbiBpc3N1ZSB3aXRoIHN0ZXBzIHRvIHJlcHJvZHVjZSwgd2hhdCB5b3UgZXhwZWN0ZWQsIGFuZCB3aGF0IGhhcHBlbmVkLgo=
+# Contributing to Message Variant Engine
+
+Thanks for your interest! This project is intentionally small, auditable, and dependency-light.
+
+## Ground rules
+
+- **The design system is the source of truth.** Behavioral changes to output should start in [`docs/design-system.md`](docs/design-system.md) and [`ai-skills/`](ai-skills/), not buried in code.
+- **No secrets in commits.** API keys live in local browser storage only. See [.gitignore](.gitignore).
+- **Keep it client-side.** No backend, no analytics, no tracking.
+
+## Dev setup
+
+1. Fork and clone.
+2. Load `extension/` as an unpacked extension (`chrome://extensions` → Developer mode → Load unpacked).
+3. Make changes; reload the extension to test.
+
+## Pull requests
+
+- Keep PRs focused and describe the user-facing change.
+- If you change output behavior, update the relevant `ai-skills/` file and `docs/design-system.md`.
+- CI validates the manifest, checks JS syntax, and confirms required docs exist.
+
+## Reporting issues
+
+Open an issue with steps to reproduce, what you expected, and what happened.
